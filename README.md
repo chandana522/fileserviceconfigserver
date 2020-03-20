@@ -1,2 +1,2 @@
 # fileserviceconfigserver
-file service config server
+file service config server application.
